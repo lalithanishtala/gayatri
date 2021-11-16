@@ -9,7 +9,7 @@ public class Demo {
 	
 	@GetMapping("/test")
 	public String testMethod() {
-		return " hello chittipyu";
+		return " hello Durgi";
 	}
 
 }
